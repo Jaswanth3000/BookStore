@@ -1,0 +1,30 @@
+tr:nth-child(1) {
+    background-color: none;
+    /*background-color: #D6EEEE;*/
+}
+html * {
+    font-size: 16px;
+    line-height: 1.625;
+    font-family: Roboto, Arial;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+body{
+    background-image: url(Logo/BG.JPG);
+}
+.container{
+    width: 250px;
+    height: 300px;
+    background-color: rgb(171, 168, 137);
+    border-radius: 5px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.image{
+    width: 220px;
+    height: 200px;
+    background-color: red;
+
+}
